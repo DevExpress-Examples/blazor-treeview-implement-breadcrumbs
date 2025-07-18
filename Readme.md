@@ -11,7 +11,7 @@ The Breadcrumb control indicates the current page's location in a navigational h
 
 ![TreeView as Breadcrumb](/TreeView.png)
 
-In this example, the DxTreeView component uses its [SelectionChanged](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxTreeView.SelectionChanged) event handler to bind to the [Bootstrap Breadcrumb](https://getbootstrap.com/docs/4.0/components/breadcrumb/) component.
+In this example, the DxTreeView component uses its [SelectionChanged](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxTreeView.SelectionChanged) event handler to bind to the [Bootstrap Breadcrumb](https://getbootstrap.com/docs/5.3/components/breadcrumb/) component.
 
 The TreeView's selected node changes when you select a Breadcrumb item:
 ```
